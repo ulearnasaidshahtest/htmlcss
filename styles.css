@@ -1,0 +1,32 @@
+button{
+    border: none;
+    background-color: dodgerblue;
+    color: white;
+
+    padding: 12px 23px;
+    cursor: pointer;
+    border-radius: 23px;
+}
+
+
+button:hover{
+    background-color: tomato;
+}
+
+
+div{
+    width: 100px;
+    height: 100px;
+
+    background-color: goldenrod;
+
+    border-radius: 100%;
+}
+
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid tomato;
+}
